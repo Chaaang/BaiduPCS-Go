@@ -7,12 +7,9 @@
 
 This project was largely inspired by [GangZhuo/BaiduPCS](https://github.com/GangZhuo/BaiduPCS)
 
-## 解决错误代码4, No permission to do this operation
-```
-BaiduPCS-Go config set -appid 266719
-```
-
-详见讨论 [#387](https://github.com/iikira/BaiduPCS-Go/issues/387)
+## 原版已经不更新，弄个自己用的顺便学习
+初始版本 https://github.com/iikira/BaiduPCS-Go
+借鉴版本 https://github.com/ttys3/BaiduPCS-Go
 
 ## 注意
 
